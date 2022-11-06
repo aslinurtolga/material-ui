@@ -73,7 +73,7 @@ function AppbarComp() {
           </Box>
 
           <Typography
-            variant="h5"
+            variant="h4"
             noWrap
             component="a"
             href=""
